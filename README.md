@@ -42,7 +42,12 @@ The proejct  was designed to addres the following goals;
 
 - Average Sales: is a metric that represents the mean amount of sales revenue generated over a specified period. It is calculated by dividing the total sales revenue by the number of sales transactions.
 
-- Analysis
+### Data Analysis
+
+  - In order to begin the analysis, we need to first find the total revenue and the average revenue of the sales data.
+ 
+  - After which, a pivot table will be created in order to analyze our data.
+    
    1. To calculate the total revenue by region, we need to use =Quantity X Unit Price
 
   ``` Excel
