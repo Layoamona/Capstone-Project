@@ -42,10 +42,39 @@ The proejct was project was designed to addres the following goals;
 
   ``` Excel
   =F2 X G2 
+  ```
+
+
+
+![Total Revenue](https://github.com/user-attachments/assets/846ad70a-fb29-494c-8a8a-44bc11ddaf8d)
+
+
 
 
   2. To calculate the average revenue by region, we need to use the AVERAGEIF function because we are caculating the average revenue for several regions.
 
   ``` Excel
-  =AVERAGEIF(
- 
+  =AVERAGEIF(C:C,C2,H:H)
+  ```
+
+
+![Average Sales](https://github.com/user-attachments/assets/90701080-3c75-4956-b8a6-0b1ebea4d326)
+
+
+### Virtual Analysis and Inference 
+
+ 1. Revenue by Region
+
+    
+![REVENUE BY REGION](https://github.com/user-attachments/assets/f633e557-da19-4385-bcdc-a38719137cbf)
+
+
+2. Revenue by Product
+
+   
+![Revenue by Product](https://github.com/user-attachments/assets/6bfcda8f-35b2-4b05-9b29-51b7b6d78744)
+
+
+3. Top 3 Selling Product
+
+   
