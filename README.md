@@ -2,6 +2,22 @@
 
 ### Project Title: Sales Performance Analysis for a Retail Store
 
+### Table of Content
+[Introduction](#Introduction)
+
+[Project Overview](#ProjectOverview)
+
+[Data Source](#DataSource)
+
+[Tools Used](#ToolsUsed)
+
+[Project Summary](#ProjectSummary)
+
+[Data Analysis](#DataAnalysis)
+
+[Virtual Analysis and Inference](#VirtualAnalysisandInference)
+
+
 ### Introduction 
 
 Data analysis is crucial today as it turns raw data into insights that guide decision-making and strategy. This project evaluates retail sales performance by analyzing product, regional, and monthly trends. Using Excel for exploration, SQL for extraction, and Power BI for visualization, it will deliver an interactive dashboard summarizing key sales insights  of sales performance.
