@@ -33,7 +33,19 @@ The proejct was project was designed to addres the following goals;
   
 - Top selling Product: This refers to the product with the highest sales or revenue within a given timeframe.
   
-- Monthly Sales : Monthly sales represent the total revenue generated in each month. Tracking monthly sales helps identify trends, seasonal fluctuations, and periods of high or low demand. 
+- Monthly Sales : Monthly sales represent the total revenue generated in each month. Tracking monthly sales helps identify trends, seasonal fluctuations, and periods of high or low demand.
+
+- Average Sales: is a metric that represents the mean amount of sales revenue generated over a specified period. It is calculated by dividing the total sales revenue by the number of sales transactions.
+
+- Analysis
+   1. To calculate the total revenue by region, we need to use =Quantity X Unit Price
+
+  ``` Excel
+  =F2 X G2 
 
 
+  2. To calculate the average revenue by region, we need to use the AVERAGEIF function because we are caculating the average revenue for several regions.
+
+  ``` Excel
+  =AVERAGEIF(
  
