@@ -11,4 +11,15 @@ This project seeks to analyze the sales performance of a retail store by explori
 The primary source of data used here is data sales and this is an open source data that can be freely downloaded from an open source online such as Kaggle or any other repository site.
 
 ### Tools Used
+- Microsoft Excel  
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Visualiation
+     
+- SQL - Strutured Query Language for Quering Data
+- 
+-  Power BI
+  1. For Data Cleaning
+  2. For Visualization
+  3. Interractive Dashboard
  
