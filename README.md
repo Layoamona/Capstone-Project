@@ -19,19 +19,24 @@
 
 
 ### Introduction 
+---
 
 Data analysis is crucial today as it turns raw data into insights that guide decision-making and strategy. This project evaluates retail sales performance by analyzing product, regional, and monthly trends. Using Excel for exploration, SQL for extraction, and Power BI for visualization, it will deliver an interactive dashboard summarizing key sales insights  of sales performance.
 
 ### Project Overview
+---
 
 This project seeks to analyze the sales performance of a retail store by exploring key metrics and insights within the sales data. This analysis will focus on identifying top-selling products, assessing regional performance, and examining monthly sales trends. The findings will be presented through an interactive Power BI dashboard designed to provide clear, actionable insights into the store's sales performance.
 The data includes sales transactions across product categories, regions, and months, covering metrics like total revenue, sales counts, and customer data for KPI analysis. Initial Excel exploration will use pivot tables to calculate metrics like average sales per product and regional revenue, while SQL will handle complex extractions, such as top products, regional sales contributions, and monthly sales tracking.
 
 ### Data Sources
+---
 
 The primary source of data used here is data sales and this is an open source data that can be freely downloaded from an open source online such as Kaggle or any other repository site.
 
 ### Tools Used
+---
+
 - Microsoft Excel  
   1. For Data Cleaning
   2. For Analysis
@@ -45,6 +50,7 @@ The primary source of data used here is data sales and this is an open source da
   3. Interractive Dashboard
 
 ### Project Summary
+---
 
 The proejct  was designed to addres the following goals;
 
@@ -59,6 +65,7 @@ The proejct  was designed to addres the following goals;
 - Average Sales: is a metric that represents the mean amount of sales revenue generated over a specified period. It is calculated by dividing the total sales revenue by the number of sales transactions.
 
 ### Data Analysis
+---
 
   - In order to begin the analysis, remove duplicate from your dataset.
  
@@ -83,6 +90,7 @@ The proejct  was designed to addres the following goals;
 ![Average Sales](https://github.com/user-attachments/assets/5aa15628-f01b-4089-b114-920e83213312)
 
 ### Virtual Analysis and Inference 
+---
 
  1. Revenue by Region                                                                                                    
     
