@@ -5,17 +5,17 @@
 ### Table of Content
 [Introduction](#Introduction)
 
-[Project Overview](#ProjectOverview)
+[Project Overview](#Project-Overview)
 
-[Data Source](#DataSource)
+[Data Source](#Data-Source)
 
-[Tools Used](#ToolsUsed)
+[Tools Used](#Tools-Used)
 
-[Project Summary](#ProjectSummary)
+[Project Summary](#Project-Summary)
 
-[Data Analysis](#DataAnalysis)
+[Data Analysis](#Data-Analysis)
 
-[Virtual Analysis and Inference](#VirtualAnalysisandInference)
+[Virtual Analysis and Inference](#Virtual-Analysis-and-Inference)
 
 
 ### Introduction 
